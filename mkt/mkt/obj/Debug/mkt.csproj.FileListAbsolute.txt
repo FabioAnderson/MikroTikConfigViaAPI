@@ -1,0 +1,6 @@
+c:\users\fabio blueconecta\documents\visual studio 2015\Projects\mkt\mkt\bin\Debug\mkt.exe.config
+c:\users\fabio blueconecta\documents\visual studio 2015\Projects\mkt\mkt\bin\Debug\mkt.exe
+c:\users\fabio blueconecta\documents\visual studio 2015\Projects\mkt\mkt\bin\Debug\mkt.pdb
+c:\users\fabio blueconecta\documents\visual studio 2015\Projects\mkt\mkt\obj\Debug\mkt.csprojResolveAssemblyReference.cache
+c:\users\fabio blueconecta\documents\visual studio 2015\Projects\mkt\mkt\obj\Debug\mkt.exe
+c:\users\fabio blueconecta\documents\visual studio 2015\Projects\mkt\mkt\obj\Debug\mkt.pdb
